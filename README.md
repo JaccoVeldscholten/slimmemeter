@@ -19,7 +19,7 @@ This option can be used for any type of DSMR meter. Via the USB dongle it is pos
 
 More information about the hardware can be found under the folder hardware.
 
-### P1 Meter PCB developed by me
+### P1 Meter PCB developed
 
 A meter with a version higher than DSMR 4, it is possible to request power from the meter itself to power the reader. By using an RJ11 it is possible to connect this printed circuit board. Just like the Raspberry Pi, it will send POST Requests to the API.
 
